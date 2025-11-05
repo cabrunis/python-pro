@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PS5 Experience PRO – Juegos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🎮 Experiencia PS5 PRO juegos random</h1>
+    </header>
+
+    <main class="card-container">
+        <!-- Astro Bot -->
+        <div class="card">
+            <img src="https://i.blogs.es/e155ec/astro-bot/375_375.jpeg" alt="Astro Bot">
+            <div class="card-content">
+                <h2>Astro Bot</h2>
+                <p>Aventura de plataformas supersónica para PS5.</p>
+            </div>
+        </div>
+
+        <!-- Split / Second -->
+        <div class="card">
+            <img src="https://upload.wikimedia.org/wikipedia/en/a/a8/Split_Second_Velocity_EU_Cover.jpg" alt="Split/Second">
+            <div class="card-content">
+                <h2>Split / Second</h2>
+                <p>Carrera explosiva donde tú controlas los eventos del entorno.</p>
+            </div>
+        </div>
+
+        <!-- Horizon Forbidden West -->
+        <div class="card">
+            <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/02/horizon-forbidden-west-burning-shores-dlc-release-date-price-story-aloy.jpg" alt="Horizon Forbidden West">
+            <div class="card-content">
+                <h2>Horizon Forbidden West</h2>
+                <p>Explora un mundo post‑apocalíptico con máquinas y tribus.</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
